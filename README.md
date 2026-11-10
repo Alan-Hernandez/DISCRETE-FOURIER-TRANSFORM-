@@ -48,6 +48,7 @@ subplot(3,1,3);
 plot2d3(K, phase);
 xtitle("Phase Spectrum", "k", "Phase (radians)")
 
+
 clc;
 clear;
 clf;
